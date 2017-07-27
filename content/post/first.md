@@ -44,6 +44,8 @@ This blog is going to have audio, as I am a composer. One of my professors at [u
 One of these next posts will be a fun one all about my mentors. If you treat everyone like a mentor, and really *listen*, you can [steal](google.com/picasso) the best parts about them. That's what I am primarily. A consesus of all the humans I've interacted with. I've talked extensively to just about every type of human you can imagine, and there is serious value to be derived from all of them. God damn the [17](sanjose17.com) is fucking insane. I'm wearing flip flops and a button up.
 
 Since it's hawt on the temple, another post is going to be about... no fuck this I will make a list of some nugs from evernote that have never seen the light of day.
+
+```
 1. the mitten story
 2. SWAT - Blackout!
 3. Breakup
@@ -73,20 +75,22 @@ Since it's hawt on the temple, another post is going to be about... no fuck this
 27. iSuck - 2020 visual acuity
 28. consume your own media
 29. capitalism has been dying for 100 years, and it will probably keep dying for another 100
-30. 
+```
 
-
+ugh what am I doing
 
  1. Stay sober
  2. Finish POLIWAT rig v1
  3. Start company
  4. git init 6pack
 
+
 *Everyday spent not making music is a day wasted*.
 
-`docs/content/`/
+`docs/content/`
 <img src="/images/mom1.jpeg">
 
 ```
 The train got delayed an hour
+riverofmeat.doc
 ```
