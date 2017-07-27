@@ -2,7 +2,7 @@
 title = "The year I was 25"
 description = "The year I was 25"
 tags = [ "xxx", "yyy", "ssss", "vvvvv" ]
-date = "2017-06-25"
+date = "2017-07-25"
 location = "Santa Cruz, CA"
 categories = [
   "live looping",

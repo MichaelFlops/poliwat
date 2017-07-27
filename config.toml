@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "POLIWAT"
+title = "POLIWAT."
 
 theme = "sublime-hugo-theme"
 
