@@ -114,3 +114,21 @@ So my todos for the night:
 gen Why
 
 gen y
+
+
+
+Okay
+
+
+
+comport object in PD to talk to the teensy.﻿
+
+The teensy uses serial communication to talk to the pi and send messages back and forth. I did not have to write any drivers. The serial communication works straight away.﻿
+
+It's a strip of neopixels. They are programmed to respond to the amplitude.﻿
+
+Well its specific to this project. The PD patch sends amplitude data out of the pi into the teensy board. The Teensy then sends that data to the neopixels out the 1/8 jack. There are some projects out there for doing this sort of thing with just a microprocessor and some neo pixels. Here is a project like that:
+https://learn.adafruit.com/sound-reactive-neopixel-peace-pendant/overview?embeds=allow﻿
+
+open up pilooper.pd, then click though pd audio-IO, then pd post-loop-fx. The beat repeat is called pd tableGlitch. You can disconnect it from the inlet and replace it with anything you'd like.
+https://puu.sh/w67bf/02f5a72c71.png﻿

@@ -1,10 +1,12 @@
 ---
 title: "Pbjmaster_1"
 date: 2017-07-28T10:30:53-07:00
-draft: true
+draft: false
 ---
 
 Friday 10:31 AM
+
+Don't start reading until you play [this](https://soundcloud.com/kyotokidforever/post-dreams-in-her-post-house)
 
 A major client we have here has a major page down for their international (french site).
 I really had to shit and drink coffee so I wasn't much help and now I should be working on fixing that, but am also consulting my buddy tyler on some flexbox use for a client of his.
@@ -24,4 +26,15 @@ ON TRAIN BEFORE I FORGETO:
 *organize sound library, start building sample kits for poliwat*
 
 1134 am
-working but UpDATE, Poliwat last night officailly became a squad. My roommate and most recent BFF Stefan told me he's down to join.
+working but UpDATE, Poliwat last night officailly became a squad. My roommate and most recent BFF Stefan told me he's down to join. Ironically I type this on your laptop dude, thanks a bunch for letting me borrow it the past couple days!
+
+
+12 58 pm not very productive right now
+had to run to the bank to take care of an emergency
+
+I called peter 3 times yesterday and 1 time today so far, no calls back
+
+
+friday 154 pm
+
+leaving work early to pack, return laptop adn head to san mateo to see jack - stefan and I will travel together so it's gonna be real fun!!!
