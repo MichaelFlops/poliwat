@@ -60,4 +60,57 @@ I feel like a total junkie
 my junkiness is complex
 I'm a junkie connoisseur
 ```
-There are events and choices that have happened today and in the past few days that I won't mention because this is an online journal. What scares me is sharing. But with being vulnerable comes great power. So for the sake of tyler mike I will share one of those things.
+There are events and choices that have happened today and in the past few days that I won't mention because this is an online journal. What scares me is sharing. But with being vulnerable comes great power. So for the sake of [tyler](https://www.studiosunfish.com/) mike I will share one of those things.
+
+
+
+*Thursday 437 pm*
+
+about to do a work meeting and have to respond to 3 jira tickets before the day's out but just wanted to say...
+
+going to set my first deadline here.
+it is to release this electronic album that's just about finished, each track just needs to be scrutinized, mixed, and mastered.
+My buddy [Ian Crispi](https://soundcloud.com/crypticflow/shapecolor-ft-max-the-taxman-crisman-evan-obrien), the most enlightened audio guy I know said he would master one of my tracks per month for 33 bucks.
+
+Also I just recieved the largest paycheck of my life, $2,427.
+
+Sadly it's gone before I even put it in the bank, I'm paying 1,500 for the airfaire for both my dad and I to visit his hometown and birthplace in Marquette, Michigan for a family reunion vacation type deal. Then Rent is $500.
+Oh the rental car is $400. So all that money's gone. Plus I'll owe in taxes so I'm fucked.
+
+```
+Fiscally I'm fucked. Physically I'm in pretty good shape.
+```
+
+I love [this fool's website](https://ander.live/). I smell flexbox!
+
+
+620 pm
+biked home from work cause I couldn't think straight.
+
+I'm getting a little too much resistance from friends and family.
+To borrow from the Beatles, I'm going to be successful with poliwat in only with a little help from my friends.
+
+It's going to take a lot of convinving to get Paul to record Bonnie's birth of her first child, and chad to film me with his drone all the way in Oregon for the [eclipse](http://oregoneclipse2017.com/).  
+
+
+I setup two meetings:
+one with Tyler so he can help me with possible deployment issues, saturday at noon.
+Chad where I show him my whole poliwat plans Sunday from 2-4pm.  
+
+From now on Katie and I talk using [police codes](https://copradar.com/tencodes/).
+
+[Peter](http://pndpo.com/) has not called back in 5 calls, I'm worried about him. He barely answered one call after his grandma died and I asked for help on poliwat like a big twat and he hasnt wanted to speak to me since. I'll keep calling.
+
+So my todos for the night:
+
+1.  - respond to ticket 207 DONE
+2.  - Do ticket 467 long urls DONE
+3.  - log work hours DONE
+4.  - go far enough in poliwat wiring that I can email the og maker with some questions
+
+
+10 things I hate about buzzfeed
+
+gen Why
+
+gen y
