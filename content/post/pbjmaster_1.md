@@ -22,11 +22,11 @@ Going to Michigan on Tuesday, so real quick notes, these things have to happen t
 
 ON TRAIN BEFORE I FORGETO:
 
-*business wirteup to explain poliwat to chad, meeting Sunday 2-4pm*
+*business write up to explain poliwat to chad, meeting Sunday 2-4pm*
 *organize sound library, start building sample kits for poliwat*
 
 1134 am
-working but UpDATE, Poliwat last night officailly became a squad. My roommate and most recent BFF Stefan told me he's down to join. Ironically I type this on your laptop dude, thanks a bunch for letting me borrow it the past couple days!
+working but UpDATE, Poliwat last night officially became a squad. My roommate and most recent BFF Stefan told me he's down to join. Ironically I type this on your laptop dude, thanks a bunch for letting me borrow it the past couple days!
 
 
 12 58 pm not very productive right now
@@ -37,4 +37,21 @@ I called peter 3 times yesterday and 1 time today so far, no calls back
 
 friday 154 pm
 
-leaving work early to pack, return laptop adn head to san mateo to see jack - stefan and I will travel together so it's gonna be real fun!!!
+leaving work early to pack, return laptop and head to san mateo to see jack - stefan and I will travel together so it's gonna be real fun!!!
+
+
+friday 422 pm
+
+<img src="/images/stefanMikePrisoner.jpg">
+on the good old 17 yet again
+
+stefan and I are traveling together
+
+```
+
+support weird art
+cause you're going to die
+please help
+me
+you
+```

@@ -116,10 +116,7 @@ gen Why
 gen y
 
 
-
 Okay
-
-
 
 comport object in PD to talk to the teensy.﻿
 
