@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "POLIWAT."
+title = "POLIW.AT"
 
 theme = "sublime-hugo-theme"
 
@@ -14,7 +14,8 @@ paginate = 50
 [params]
 	name = "Michael Betts"
 	description = "open source thoughts for emotional people"
-	copyright = "Omari LLC"
+	copyright = "Omari, SC-LLC"
+	avatar = "/images/mike1.png"
 
 	# Custom assets can be linked with their paths relative to static/
 	custom_css = []
@@ -29,15 +30,14 @@ paginate = 50
 
 [params.offcanvas]
 	# Menu items
-	title = "Omari Production"
-	bio = "Walmarts Everywhere"
+	title = "Omari"
 	bio2 = "Santa Cruz, CA"
 	subscribe = "Help"
 	followme = "Contact"
 
 	# Enable Google search
 	search_enabled = true
-	search = "Search"
+	search = "Look.Up.Squirt.U.Gonna.Die"
 
 	[[params.offcanvas.socialnetworks]]
 		name = "michael"
