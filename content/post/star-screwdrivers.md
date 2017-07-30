@@ -26,4 +26,4 @@ I have gogole alerts setup so that for any Michael Betts that pops up in the new
 
 I gave Jack full control of [wespr](https://wespr.org) a couple days ago and helped him redesign the site a bit, it's looking sweet! Going to officially start an LLC when I get back from Michigan.
 
-I'm less angry now that I worked out a bit. There's always a healthy way to manage emotions, and it's fun to use them to your advantage. Going to practice some Kendrick now. 
+I'm less angry now that I worked out a bit. There's always a healthy way to manage emotions, and it's fun to use them to your advantage. Going to practice some Kendrick now.
