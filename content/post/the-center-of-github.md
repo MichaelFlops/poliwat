@@ -19,6 +19,46 @@ A simple to DO list to finish github.center
 
 1. Set tracklist
 
+
+g my g
+lift 10
+TPO 2
+TPO 7
+TPO 8
+TPO 10
+TPO 12
+Processing . empathy
+
+
+  1. git init 6pack ( Lift 10 OR TPO 12 )
+
+  2. git clone ( TPO 2 )
+
+  3. git add ( G my G )
+
+  4. git rm baggage (  )
+
+  5. git grep a grip
+
+  6. git merge -force
+
+  7. git relationship status ( TPO 10 )
+
+  8. git show God.html ( Processing . empathy  )
+
+  9. git branch tree metaphor
+
+  10. git checkout nudies on signal
+
+  11. git tag
+
+  12. git pull your own weight
+
+  13. git push -u origin master ( TPO 7 )
+
+
+-=-=-=-=- :) -=-=-=-=- :( -=-=-=-=- -=-=-=-=- :) -=-=-=-=- :( -=-=-=-=-
+
 2. Title tracklist
 
 3. create track art for each
@@ -34,3 +74,6 @@ A simple to DO list to finish github.center
 8. Write blurb / link documentation / stems / sound / art for each track
 
 9. setup patreon account for making music
+
+
+fawn weaver

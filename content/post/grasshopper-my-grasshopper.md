@@ -1,10 +1,13 @@
 ---
 title: "Grasshopper My Grasshopper"
 date: 2017-07-29T09:47:16-07:00
-draft: true
+draft: false
 ---
 
-Grasshopper my Grasshopper
+#### Grasshopper my Grasshopper
+
+```
+<verse1>
 I speak to you in total confidence in consequence
 in pool go go girl went postal in my post office
 
@@ -13,8 +16,8 @@ most are lonely
 few are loud
 I am loud
 I am proud
-I am a prohpet of my past predicated upon all my mistakes
-if I love jimminy cricket spitting to crickets me mistakes
+Im a prophet of my past predicated upon all my mistakes
+if I love jimminy cricket spitting to crickets my miss takes
 I spit to you my Grasshopper
 
 I need a mentor
@@ -26,8 +29,10 @@ I cannot fake this no more
 I cannot take this no more
 I cannot work her no more
 
-I cannot affirm my aspirations
-by sharing with parents 
+<b>hook</b>
+wax on | wax off? x4
 
+```
 
-(I admit)
+<b>hook</b>
+hook
