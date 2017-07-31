@@ -42,7 +42,7 @@ Processing . empathy
 
   6. git merge -force
 
-  7. git relationship status ( TPO 10 )
+  7. git status relationship ( TPO 10 )
 
   8. git show God.html ( Processing . empathy  )
 
