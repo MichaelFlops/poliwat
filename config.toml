@@ -1,4 +1,4 @@
-baseURL = "https://michaelflops.github.io/poliwat/"
+baseURL = "/"
 languageCode = "en-us"
 title = "POLIW.AT"
 publishDir = "docs"
