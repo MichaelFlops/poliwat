@@ -40,7 +40,7 @@ Processing . empathy
 
   5. git grep a grip
 
-  6. git merge -force
+  6. git merge --force
 
   7. git status relationship ( TPO 10 )
 

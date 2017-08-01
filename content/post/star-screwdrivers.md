@@ -1,7 +1,7 @@
 ---
 title: "Star Screwdrivers"
 date: 2017-07-30T13:07:16-07:00
-draft: true
+draft: false
 ---
 
 Sunday 108 PM
@@ -56,4 +56,4 @@ Did about 200 pushups today, and I'm not soar. Yet. We'll see about tomorrow.
 
 [Tyler]() helped me troubleshoot deploying this website, and he said it was a pain in the ass. And it was, none of the guides on netifly worked the way they should, each of the 4 we tried had obscure errors. Tyler went to [michaels]() then I finally had some luck with firebase. I remember getting firebase glasses before they were bought by google at [Y Combinator]().
 
- 
+Feeling the tired genes now for sure.  

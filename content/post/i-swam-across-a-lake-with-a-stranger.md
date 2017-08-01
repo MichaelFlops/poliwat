@@ -1,7 +1,7 @@
 ---
 title: "I Swam Across A Lake With A Stranger"
 date: 2017-07-29T12:09:30-07:00
-draft: true
+draft: false
 ---
 
 ehh I hate old photos of me and my ex. Maybe one day I'll develop a taste for them.
