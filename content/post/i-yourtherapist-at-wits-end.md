@@ -12,7 +12,7 @@ Friday 533 PM | OnCalTrain | JULY 28 2017 | #####I your therapist at wits end
 
 <!-- https://soundcloud.com/kyotokidforever/post-dreams-in-her-post-house -->
 Just wanted to report on an occurrence that happened a couple months ago.
-After my last breakup, I went a little off the rails. No, not talking ruby, I maintained a healthy ecosystem of smoke and drink each day. I made emotional audio [journals](https://soundcloud.com/poliwat/sets/michaels-audio-journal/s-9T9Nm), only published half of [the here](https://soundcloud.com/poliwat/AJ)
+After my last breakup, I went a little off the rails. No, not talking ruby, I maintained a healthy ecosystem of smoke and drink each day. I made emotional audio journals, only published half of [the here](https://soundcloud.com/poliwat/sets/michaels-audio-journal/s-9T9Nm)
 
 It was my last quarter at uni(so iThought), and what I did was make a bucket list. A breakup bucket, to do list. I also started seeing a therapist, and the story is about my two sessions her. She was a mom, her mind seemed elsewhere. She wouldn’t quite understand me when I spoke, but she was sure professional. She never followed up so I felt like she gave up on me, and wasn’t interested in keeping me as a client. Maybe I’ll text her sometime.
 

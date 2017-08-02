@@ -15,7 +15,9 @@ type = "post"
 
 #### I dream in POLIWAT
 
-First off some [sound](https://soundcloud.com/github)
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331392230&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+
+Also my other account [sound](https://soundcloud.com/poliwat)
 
 ###### I have been completely sober for 5 days
 
@@ -32,7 +34,11 @@ In 7 days I'm going to Michigan for the first time in my life with my dad, for t
 
 This is my first online journal entry. I'm not a strong writer. But I have been journalling extensively since 2011, primarily in [evernote](http://evernote.com). My journals as of late have become much more schizo and unreadable lately. So my thought is that if I publish them online then they'll be a little more cohesive. Also it's an exercise in the practice of vulnerability. If you are vulnerable with your friends and enemies, then you can really go far.
 
-Listening to Kendrick on the Bus. I printed out a couple of his songs that I'm working on memorizing. That's because when my girlfriend of two years left me, I made a bucket list. The things I need to do before I die. And for some reason I wrote know every kendrick line. It's been a couple months and I've still been working on it. I also did acid and walked / ran to the beach overnight, to take a dip in the ocean as a cleanse from her. Although I don't want to see her ever again, I do still feel self conscious at the thought of her seeing what I do on the internet. After the breakup I made a series of audio journals where I went mad hatter - you can listen to the chaos [here](soundcloud.com/poliwat). They are private audio tracks, you can only access them through this link. Please don't share. Or do. Who am I talking to, this is my journal? Future Michael.
+Listening to Kendrick on the Bus. I printed out a couple of his songs that I'm working on memorizing. That's because when my girlfriend of two years left me, I made a bucket list. The things I need to do before I die. And for some reason I wrote know every kendrick line. It's been a couple months and I've still been working on it. I also did acid and walked / ran to the beach overnight, to take a dip in the ocean as a cleanse from her. Although I don't want to see her ever again, I do still feel self conscious at the thought of her seeing what I do on the internet. After the breakup I made a series of audio journals where I went mad hatter - you can listen to the chaos:
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/322195091%3Fsecret_token%3Ds-9T9Nm&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+They are private audio tracks, you can only access them through this link. Please don't share. Or do. Who am I talking to, this is my journal? Future Michael.
 
 There was a man on the train today that got real drunk and attacked an employee. The police came and I watched the guy down a beer in front of the police before they arrested him. Check your posture, [grasshopper](https://soundcloud.com/github/post-office-1-grasshopper-my-grasshopper-v1).
 
@@ -40,8 +46,9 @@ Everyday is a battle. I fight to successfully execute at least 1% of my ideas. I
 
 My daily commute includes about 23+ junkies, transients, addicts, or homeless humans. I like to bike by and shout IM ON CRACK and act all crazy towards them, when I'm dead sober. That's been the latest adrenaline fix. There are seasons to it.
 
-This blog is going to have audio, as I am a composer. One of my professors at [uni](ucsc.edu) drove me home last week, and it put me in a good mood for 3 days. I consider [david kant](http://davidkant.com) a mentor.
-One of these next posts will be a fun one all about my mentors. If you treat everyone like a mentor, and really *listen*, you can [steal](google.com/picasso) the best parts about them. That's what I am primarily. A consesus of all the humans I've interacted with. I've talked extensively to just about every type of human you can imagine, and there is serious value to be derived from all of them. God damn the [17](sanjose17.com) is fucking insane. I'm wearing flip flops and a button up.
+This blog is going to have audio, as I am a composer. One of my professors at [uni](https://ucsc.edu) drove me home last week, and it put me in a good mood for 3 days. I consider [david kant](https://github.com/davidkant) a mentor.
+
+One of these next posts will be a fun one all about my mentors. If you treat everyone like a mentor, and really *listen*, you can [steal](https://s-media-cache-ak0.pinimg.com/736x/c2/8f/40/c28f40bba93e3592d7159bed8703e9a7--picasso-images-pablo-picasso.jpg) the best parts about them. That's what I am primarily. A consesus of all the humans I've interacted with. I've talked extensively to just about every type of human you can imagine, and there is serious value to be derived from all of them. God damn the [17](http://santacruzpumas.org/wp-content/uploads/2013/10/UCSC-1023-1-640x640.jpg) is fucking insane. I'm wearing flip flops and a button up.
 
 Since it's hawt on the temple, another post is going to be about... no fuck this I will make a list of some nugs from evernote that have never seen the light of day.
 

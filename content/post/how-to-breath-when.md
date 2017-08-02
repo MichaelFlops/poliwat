@@ -1,16 +1,18 @@
 ---
 title: "How To Breath When"
 date: 2017-07-31T13:58:37-07:00
-draft: true
+draft: false
 ---
 
-#### Just jumped in the ocean
+#### Just jumped in the ocean and practiced handstands. This guy showed me how to go from your butt to a handstand
 
 
-There are differnet types of breathing.
+There are different types of breathing.
 
 
-1. *square breathing*  In middle school my therapist (whose email was hypnohupp) taught me square breathing.
+1. *Square breathing*  
+
+In middle school my therapist (whose email was hypnohupp) taught me square breathing.
 
 You inhale for 10 seconds, hold for 10, exhale for 10, hold for 10, rinse and repeat.
 

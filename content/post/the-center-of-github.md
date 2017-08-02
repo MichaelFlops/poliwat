@@ -6,6 +6,8 @@ draft: false
 
 the center of github
 
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331002307&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+
 I have a romantic thought. What’s at the center of [Github](https://github.com)?
 I imagine a room where someone makes beats as a 9-5. These beats help fuel the rest of the programming community. This person makes an instrumental track for each git command. Each track has it’s stems available on github.
 

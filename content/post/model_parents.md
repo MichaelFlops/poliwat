@@ -12,13 +12,33 @@ Growing up I always wished my parents were more affluent, challenging, and drive
 
 What I did learn however is the feeling of unrequitted, unconditional love. My parents have always allowed me to explore the world, and I went from die hard extreme Rush Limbaugh disciple Right wing twat to dumb barefoot hippy liberal all on my own accord. They have shown love to me in times that I was objectively unlovable, and I can feel the power from their efforts every single day.
 
-In a couple days I will be in my father's  
+
+<img src="/images/model_parents2.jpg">
 
 
-Speaking of love. There is no feeling on the planet like that of a good woman missed. ^&#$%^ broke up with me. She never seemed to experience this unconditional love I feel from my parents. From my view she gave up on my offer of it. However is it unconditional if it expires? She's an intern at [Google](https://google.com) now, making double the money doing what she loves. I got her into programming in the first place, and she sky rocketed ahead. However it came at a cost of interpersonal relationships. She's sort of a creep. Is it unconditional love? At this point in time I can't see her as much more than a parasite with a 10/10 ass. 
 
-#####Do what scares you.
+##### My parents. I'm proud of them
+
+
+In a couple days I will be in my father's hometown and birthplace
+
+Speaking of love. There is no feeling on the planet like that of a good woman missed. ^&#$%^ broke up with me. She never seemed to experience this unconditional love I feel from my parents. From my view she gave up on my offer of it. However is it unconditional if it expires? She's an intern at [Google](https://google.com) now, making double the money doing what she loves. I got her into programming in the first place, and she sky rocketed ahead. However it came at a cost of interpersonal relationships. She's sort of a creep. Is it unconditional love? At this point in time I can't see her as much more than a parasite with a 10/10 ass.
+
+
+##### Do what scares you.
 
 Sharing my previous insecurities about my upbringing, and experiences of my last ex scare me.
 
-The two secrets I am
+The two secrets I am going to share will take a while - maybe a month or two.
+
+<img src="/images/2017-08-01 23.48.50.jpg">
+
+```
+  ^also not related but it is
+
+  paint your ideal lifestlye
+
+  blah blah blah blah
+
+  be a dick on youtube
+```

@@ -13,13 +13,19 @@ I don't have any new ideas but listening to all my unfinished [beats](https://so
 
 // need to make more music
 
-Yesterday I failed at making [live loops](https://youtu.be/0gKWfvd-chA) because I didn't have good old [DJ Chad Mike](https;//chadlamon.com) hitting record for me. The more I program, write, solder, the worse I get at being a musician.
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335856091%3Fsecret_token%3Ds-9TWJf&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+
+Yesterday I failed at making [live loops](https://youtu.be/0gKWfvd-chA) because I didn't have good old [DJ Chad Mike](https://chadlamon.com) hitting record for me. The more I program, write, solder, the worse I get at being a musician.
 Yesterday I was dead sober and couldn't even properly loop a 2 chord progression. BUT the settings on the looper were fucked up it was on quantize while recording so playback was *nothing* like what it should've sounded like. Today after work [stefan](http://soundcloud.com/kyotokidforever) and I are going to play together practicing live looping. But I also need to start wiring this bad boy up:
 
 <img src="/images/poliwat1.jpg"  />
 
 
 Umm I have goals now
+
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335856105%3Fsecret_token%3Ds-W7qTe&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 
 I'm going to drop an album in the next week? Depending on if I can get my laptop fixed in time. Need to mix and master a few of the tracks.
 
