@@ -1,0 +1,38 @@
+---
+title: "Life Is A Sacred Circle"
+date: 2017-08-15T11:36:27-07:00
+draft: false
+---
+
+
+Tuesday 1136 AM
+
+I'm supposed to be at work by 10 AM. My boss texted me an hour ago then called, but I've been glued to this track [stefan]() and I worked on early into the morning. The soundscapes are from our professor and mentor David Dunn, and the woman speaking is my relative Cathy Nelson. Her work is so inspiring an entire album could be made from it.
+
+But my boss just called and I froze up. Do I say I'm sick? Do I be honest and tell him I need to finish this track? My entire mindset has changed, all I need is enough resources for the day to continue working on music. Since my resources are met for the day (and basically next two weeks), how could I work? How could working on making small changes and fixing bugs on some large corporate websites compete in priority with mixing together a peace of music that includes a collage of high fidelity natural soundscape audio with my relative talking about the circle of life?
+
+
+```
+
+life is a sacred circle
+we dance to pray
+we pray to heal
+we heal to live
+we live to dance
+
+```   
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=
+
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338008344%3Fsecret_token%3Ds-Qj7gx&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+
+
+1158 AM
+
+Told my boss I'm sick. I'm a pussy. I should tell him this is what I'm doing today:
+
+1. release github . center album
+2. make an album from the loops and my tape
+3. prep maschine for stefan and I to finish ecstatic dance 1 (life is a sacred circle)
+4. setup patreon account
+5. launch poliw.at site
