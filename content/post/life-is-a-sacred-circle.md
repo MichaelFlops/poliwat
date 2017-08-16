@@ -36,3 +36,50 @@ Told my boss I'm sick. I'm a pussy. I should tell him this is what I'm doing tod
 3. prep maschine for stefan and I to finish ecstatic dance 1 (life is a sacred circle)
 4. setup patreon account
 5. launch poliw.at site
+
+
+-=-=-=-=-
+
+
+Tuesday 235 PM
+
+Shit's going down.
+It's hard to ask for money for music. Peter became my first patron on the phone at $2 a month. I just need 1,000 people to believe in me enough to contribute just $2 a month!
+
+Need to make a thank you video :)
+I will do that high up in a tree soon.
+
+
+
+253 pm
+
+# SOMEONE BOUGHT MY MUSIC!!!!
+
+# THAT HAS NEVER HAPPENED BEFORE!!!!!!!!
+
+## OH MY GOD ! !! !!!!!
+
+### I AM SO HAPPY.
+
+
+518 PM
+
+to celebrate I made a track, not really my genre but kind of
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338055013%3Fsecret_token%3Ds-PYlSv&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+
+All I gotta do is pitch correct the fuck out of the singing and I'm on my way to open for the growlers!! LOL
+
+
+-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-
+
+
+wed 204 AM
+really productive music day:
+
+1. up above
+
+2.  
+
+3. <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338096285%3Fsecret_token%3Ds-nuqbH&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
