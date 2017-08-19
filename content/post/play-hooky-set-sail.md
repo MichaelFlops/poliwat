@@ -38,4 +38,11 @@ Today I have goals before waking up early for the 17 with Stefan.
 
   Going to catchup with my friend Dibs and record his sax on Stefan and my track for the ecstatic dance people!
 
-  
+
+
+324 pm
+
+Only talked on the phone with people the past 30 minutes and looked at books in [santa cruz bookstore](http://www.bookshopsantacruz.com/)
+
+The 4 loco has been heavy on my mind all day, and once I get in the groove of bouncing samples I'll take a drag.
+Gotta get the site up first! And release a youtube cut of the center of github.
