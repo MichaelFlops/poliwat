@@ -138,3 +138,23 @@ Reference:
 *Wed 1143 AM*
 
 I need to finish this project, I will set a deadline for it after finishing [POLIWAT v1](/2017/08/02/poliwat-master-doc/)
+
+
+
+### on a sautrday afternoon in a rental car
+
+hearing some freestlye tape on it:
+((( freestlye 7 )))
+can't w
+
+
+the internet will not bring you to your knees
+we will not pay more for the cheese
+ we will not pay more for the sleeze
+
+
+internet not an assmbly line
+1955 unionize the people
+
+
+-=--=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=-
