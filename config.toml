@@ -7,8 +7,8 @@ publishDir = "docs"
 theme = "sublime-hugo-theme"
 
 # Enable Google Analytics by entering your tracking code
-# googleAnalytics = ""
-paginate = 50
+googleAnalytics = "UA-105678561-1"
+paginate = 100
 
 [permalinks]
 	post = "/:year/:month/:day/:slug"
@@ -32,15 +32,11 @@ paginate = 50
 
 [params.offcanvas]
 	# Menu items
-	title = "Omari"
-	bio2 = "Santa Cruz, CA"
-	subscribe = "Help"
-	followme = "Contact"
+	title = "This site is"
+	bio= "1 - an audio journal <br><br>2 - my brain dumping grounds <br><br> 3 - my safe space <br><br> 4 -  "
+	subscribe = "New Audio every day, so help me God"
+	followme = "nope"
 
 	# Enable Google search
 	search_enabled = true
-	search = "Look.Up.Squirt.U.Gonna.Die"
-
-	[[params.offcanvas.socialnetworks]]
-		name = "michael"
-		url = "michaelflops@gmail.com"
+	search = "this doesn't work"

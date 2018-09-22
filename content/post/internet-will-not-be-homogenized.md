@@ -4,11 +4,31 @@ date: 2017-08-02T11:45:37-07:00
 draft: false
 ---
 
+### Contents
+
+## 1. Instrumental
+
+## 2. Lyrics / vocal cues
+
+-=--=-==- -=--=-==- -=--=-==- -=--=-==- -=--=-==- -=--=-==- -=--=-==- -=--=-==-
+#### 1. Instrumental
+
+89 BPM
+
+#### Chord Pallette
+
+<img src="/images/IWNBH.png"/>
+
+
+
+F# G Em A E C#m C# FNm Bm A# F C D# DNm D B GNm
+
+
 (matt /jack playing congas in jack’s studio, michael with microhpone)
 formatted like” https://youtu.be/QnJFhuOWgXg
 
 the internet will not be brought to you by facebook
-targeted ads algorithms that deliver you goods via drone
+targeted ads algorithms that deliver you goods via drone strike
 before you think you want it yet
 
 Internet service providers will not be the gatekeepers
@@ -16,7 +36,7 @@ ISPs will not throttle thoughts
 ISPs will not data discriminate
 poor people will have the same internet as the rich
 the internet is a human right
-that’s the 31st ammendment on the bill of rights
+that’s the 31st amendment on the bill of rights
 we just haven’t wrote it yet
 put that generation in charge
 
@@ -35,6 +55,7 @@ dan harmon’s podcast will not cost extra
 we will not care when the next rick and morty ep comes out if it costs an extra 40 bucks a month to access adult swim
 
 the internet will remain free and open
+
 tim berner’s lee is
 
 article 31 of the bill of rights will state the free and open internet is a human right
@@ -99,10 +120,13 @@ therefore people Die and so ISP’s need a shelf life of say 80 years
 like people
 then they will be dismantled distributed out
 
-the internet will not be the next television
+the internet will not be the next TV
 tool of the elite to control how we think, buy
 the internet will not divide us
 the internet will unite us
+
+-==-=--=-=-==-=-=-=-=--==--=-=-=-=-==-=-==-=-=-
+you don’t pay extra to use the carpool lane
 
 ISP’s will not be gatekeepers
 secretaries will be our gatekeepers

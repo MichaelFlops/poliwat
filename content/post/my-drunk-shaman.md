@@ -17,16 +17,41 @@ Instead of talking about it I'm working on a track. This is the master doc for l
 
 ```
 
-( chug a 40 )
+[intro] ( chug a pint )
+(different computer voice each word)
 drunk. shaman. guide. me
 
-american spirit journeys ride thee
-glee mean
+[verse 1]
+I put my addiction to good use (9)
+through the verse the truth the truth it hurt you (9)
+only progress I see chords in minor keys (11)
+you laugh then date behind badmemes esteem offkey (11)
 
-opah! grab some ocra!
+thoughts become things   
+so my
+thoughts become me
+my thought fuel drink
+poe
+get too mean
+when I drink
+get too smart
+when I drink
+get too through
+other side I tell you why
+I tell you why
+when I drink
+I tell you why
+when I drink
+I tell you why
+when I drink
+I tell you why
+when I drink
+
+[chorus] (people voices)
 oprah! my god
 drunk. shaman. guide. me
 
+[verse 2]
 through the journey
 path less sipped
 I double dip
@@ -36,16 +61,6 @@ door unlocked
 trying to get
 adrenaline and angelina
 adderall and acid FEMA
-
-thoughts become things
-so my thoughts become me
-get too mean
-when I drink
-get too smart
-when I drink
-get too through
-other side I tell you why
-
 netflix get you sedated
 alcohol my medication
 my genes
@@ -65,6 +80,10 @@ through the verse truth hurts
 only progress I see through chords in minor keys
 so we can laugh
 birds without a beat
+
+( hook )
+you can get  better if you follow you
+sorry shorty the tribe has spoken
 
 I want it
 I wanna
@@ -113,13 +132,13 @@ open myself
 take care of your tribe
 
 favor for my tribe
-open seasme
+open seasme good vibes
 
 can you feel this feelin
 going tribal
 
-( hook )
-you can get  better if you follow you
+
+
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=

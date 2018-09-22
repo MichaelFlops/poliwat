@@ -1,6 +1,6 @@
 <div class="off-canvas">
     <figure class="avatar">
-        <img src="{{ .Site.BaseURL }}img/Gender Neutral User-80.svg" title="{{ with .Site.Params.name }}{{ . }}{{ end }}">
+        <img src="{{ .Site.BaseURL }}images/mike1.png" title="{{ with .Site.Params.name }}{{ . }}{{ end }}">
     </figure>
     <div class="bio">
         {{ with .Site.Params.offcanvas.title }}
@@ -29,7 +29,7 @@
                 </form>
             </div>
 
-        {{end}}        
+        {{end}}
 
         {{ with .Site.Params.offcanvas.followme }}
         <h6>{{ . }}</h6>
@@ -38,18 +38,17 @@
         <ul>
         {{ range .Site.Params.offcanvas.socialnetworks }}
             <li><a class="email" target="_blank" href="{{ .url }}">{{ .name }}</a></li>
-            <li>F0F0 F0F0 F0F0 F0F0 F0F0 </li>
-            <li>F0F0 F0F0 F0F0 F0F0 F0F0</li>
+            <li>F0F0 F0F0 F0F0 WABI SABI F0F0 F0F0 </li>
             <li><a target="_blank" href="{{ .Site.BaseURL }}misc/yourPGPkey.txt"><img class="key_img" src="{{ .Site.BaseURL }}img/key.png"></a></li>
         {{ end }}
-        </ul>     
+        </ul>
 
         {{ with .Site.Params.offcanvas.subscribe }}
         <h6>{{ . }}</h6>
         {{ end }}
 
         <ul>
-            <li><a class="rss" target="_blank" href="{{ .Site.BaseURL }}index.xml">RSS feed</a></li>
-        </ul>   
+            <li><a class="rss" target="_blank" href="https://paypal.me/poliwat">Support ♥️</a></li>
+        </ul>
     </nav>
 </div>
