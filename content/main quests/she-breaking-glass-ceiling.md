@@ -5,9 +5,9 @@ draft: false
 ---
 
 *saturday 1139 am*
-* boarding a train @noon*
 
-<img src="/images/trapt1.jpg"/>
+##### boarding a train @noon
+
 #### this project is special
 
 I started she breaking glass ceiling last Fall. I made the hook of the track while walking from my dorm to the studio listening to a BADBADNOTGOOD track on repeat. I got the flow of it and wanted to fix the words, it took hours to get it to its final form here;

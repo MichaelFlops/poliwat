@@ -129,6 +129,8 @@ stefan and I are waking at 530 AM to have a coffee / workout / then work on the 
 
 -=- -=- -=- -=- -=- -=- -=-
 
-too tired to post audio drafts of new stuff
+too tired to post audio drafts of new stuff but ok 
 
-goodnight future michael <3 
+goodnight future michael <3
+
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504498336%3Fsecret_token%3Ds-3Zq6p&color=%237105ad&auto_play=false&hide_related=false&show_comments=true&show_user=false&show_reposts=false&show_teaser=true&visual=true"></iframe>

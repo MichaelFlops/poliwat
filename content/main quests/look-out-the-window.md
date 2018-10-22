@@ -4,6 +4,10 @@ date: 2017-07-29T08:54:37-07:00
 draft: false
 ---
 
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335612931%3Fsecret_token%3Ds-4qamX&color=%2322f5f5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+#### ^^ Call BACK the last day sof the dorms I freestyled over this blog post - that's the audio ^^
+
 Look out the Window
 
 Fantasy task list:

@@ -4,6 +4,8 @@ date: 2017-08-14T12:46:49-07:00
 draft: false
 ---
 
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216785512%3Fsecret_token%3Ds-aChwp&color=%2322f5f5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 Monday 12 46 PM
 
 I've been at work since 10 AM and have virtually gotten nothing done. (For my job at least).

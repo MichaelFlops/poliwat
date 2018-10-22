@@ -28,6 +28,9 @@ I gave Jack full control of [wespr](https://wespr.org) a couple days ago and hel
 
 I'm less angry now that I worked out a bit. There's always a healthy way to manage emotions, and it's fun to use them to your advantage. Going to practice some Kendrick now.
 
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=564156320/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3307435335/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/wespr-radio-drafts">WESPR Radio Drafts by Michael Betts</a></iframe>
+
+#### ^ my fav wespr draft is this one made with chad in my garage:
 
 858 pm Sunday
 

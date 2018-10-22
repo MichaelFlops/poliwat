@@ -4,6 +4,8 @@ date: 2018-09-01T20:17:41-07:00
 draft: false
 ---
 
+<iframe width="100%" height="700" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/503486706%3Fsecret_token%3Ds-hUQNg&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 **Satdat 818 pm**
 
 just drove Brianna's uHaul to Davis. She's treating me to Korean BBQ and the first growler of my life.
@@ -364,4 +366,4 @@ bread pasta rice tortillas BUNS
 
 
 wh cause I question bukowskis legitimacy
-in a moral conundrum picking up a scrip for my mom at the pharmacy 
+in a moral conundrum picking up a scrip for my mom at the pharmacy

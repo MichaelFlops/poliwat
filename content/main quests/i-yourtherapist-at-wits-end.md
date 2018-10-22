@@ -4,6 +4,10 @@ date: 2017-07-28T23:00:13-07:00
 draft: false
 ---
 
+<iframe width="100%" height="700" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148907570%3Fsecret_token%3Ds-tCmf2&color=%2322f5f5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+^^ old class assignment
+
 Friday 533 PM | OnCalTrain | JULY 28 2017 | #####I your therapist at wits end
 
 #### Had 1 beer @ [jack's]() house and we livestreamed the Sims 3 on Twitch as prep for our play.

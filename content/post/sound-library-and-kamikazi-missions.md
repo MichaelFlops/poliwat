@@ -3,7 +3,7 @@ title: "Sound Library and Kamikazi Missions"
 date: 2018-08-17T13:32:13-07:00
 draft: false
 ---
-
+<iframe width="100%" height="700" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/503374968%3Fsecret_token%3Ds-89BjD&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 **Friday 146 PM**
 
 ```
